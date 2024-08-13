@@ -1,0 +1,20 @@
+# Ignorar el archivo de configuración de WordPress
+wp-config.php
+
+# Ignorar la carpeta de contenidos subidos
+wp-content/uploads/
+
+# Ignorar los archivos temporales
+.DS_Store
+Thumbs.db
+
+# Ignorar las carpetas de plugins y temas específicos si no quieres subirlos
+wp-content/plugins/
+wp-content/themes/
+
+# Ignorar las bases de datos y backups
+*.sql
+*.tar.gz
+*.zip
+
+.env
