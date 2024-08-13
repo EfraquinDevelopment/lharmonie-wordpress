@@ -17,3 +17,5 @@ themes/
 *.zip
 
 .env
+
+wordpress_data/
